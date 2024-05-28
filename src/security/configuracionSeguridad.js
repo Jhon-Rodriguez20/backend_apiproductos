@@ -5,8 +5,8 @@ const productoRutas = require('../routes/productoRutas');
 const TokenAutorizacion = require('./TokenAutorizacion');
 const cors = require('cors');
 
-// const whiteList = ["http://localhost:5173"]
-const whiteList = ["https://likeshopping.netlify.app"];
+const whiteList = ["http://localhost:5173"]
+// const whiteList = ["https://likeshopping.netlify.app"];
 
 const opcionesCors = {
     "origin": (origen, callback)=> {
