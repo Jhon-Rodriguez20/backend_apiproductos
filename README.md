@@ -1,3 +1,3 @@
 # backend_apiproductos
 
-Comando para iniciar: # npm run dev
+Comando para iniciar: npm i y despues npm run dev
